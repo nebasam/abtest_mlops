@@ -9,9 +9,9 @@ import mlflow
 import mlflow.sklearn
 # Get url from Dvc
 import dvc.api
-path = 'data/AdSmartABdata1ml.csv'
+path = 'data/AdSmartABdata2.csv'
 repo = '/home/neba/Desktop/abtest_mlops'
-version = 'V_browser'
+version = 'V_brow'
 data_url = dvc.api.get_url(
     path= path,
     repo= repo,
