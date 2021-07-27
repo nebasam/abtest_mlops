@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neba/Desktop/abtest_mlops/notebooks/mlruns/0/214c1516424c46c19c8d3d3d5cb9cd21/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 214c1516424c46c19c8d3d3d5cb9cd21
+run_uuid: 214c1516424c46c19c8d3d3d5cb9cd21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627140416710
+status: 1
+tags: []
+user_id: neba

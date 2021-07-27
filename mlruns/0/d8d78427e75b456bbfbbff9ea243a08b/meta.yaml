@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/d8d78427e75b456bbfbbff9ea243a08b/artifacts
+end_time: 1627140278096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: d8d78427e75b456bbfbbff9ea243a08b
+run_uuid: d8d78427e75b456bbfbbff9ea243a08b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627140278061
+status: 3
+tags: []
+user_id: neba
