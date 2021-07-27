@@ -9,3 +9,5 @@ Notebook model files are found in this directory
 The csv data used is found in this directory
 ## scripts
 Test.py can be found here
+## Root Directory
+Dockerfile and requirement.txt is found here
